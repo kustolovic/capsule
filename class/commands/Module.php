@@ -1,7 +1,7 @@
 <?php
-namespace Commands;
+namespace capsule\Commands;
 
-class Module extends Command {
+class Module extends \capsule\Command {
   public function argsDefinition(){
     return array(
       'enable/$' => array(),

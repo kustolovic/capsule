@@ -1,7 +1,7 @@
 <?php
-namespace Commands;
+namespace capsule\Commands;
 
-class Help extends Command {
+class Help extends \capsule\Command {
   
   public function output(){
     fwrite(STDOUT, "@TODO: write some fuckin help!\n");

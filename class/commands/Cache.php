@@ -1,5 +1,5 @@
 <?php
-namespace Commands;
+namespace capsule\Commands;
 
 class Cache extends \capsule\Command {
 
