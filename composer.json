@@ -1,0 +1,16 @@
+{
+    "name": "capsule/capsule",
+    "description": "A simple framework PHP",
+    "type": "library",
+    "homepage": "https://bss-devtools02.intra.blues2.ch/stash/projects/BSSWEBTOOLS/repos/capsule-capsule/browse",
+    "authors" : [{
+        "name": "kustolovic",
+        "email": "yves.martinet@blues2.ch"
+    }],
+    "version": "1.0.0",
+    "license": "©",
+    "require": {
+        "php": ">=5.4",
+        "mustangostang/spyc": "0.5.*"
+    }
+}
