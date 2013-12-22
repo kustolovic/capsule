@@ -10,7 +10,6 @@
     "version": "1.0.0",
     "license": "©",
     "require": {
-        "php": ">=5.4",
         "mustangostang/spyc": "0.5.*"
     }
 }
