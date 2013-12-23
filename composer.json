@@ -12,6 +12,6 @@
         "mustangostang/spyc": "0.5.*"
     },
     "autoload": {
-        "psr-0": {"capsule\\": "vendor/kustolovic/capsule/class/"}
+        "psr-0": {"capsule\\": "class/"}
     }
 }
